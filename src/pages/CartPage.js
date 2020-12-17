@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
-import { Button, Table } from "reactstrap";
+import { Button } from "reactstrap";
 import {
 	fetchCartAction,
 	deleteCartAction,
