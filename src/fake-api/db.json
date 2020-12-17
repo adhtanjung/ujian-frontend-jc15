@@ -1,0 +1,90 @@
+{
+	"users": [
+		{
+			"email": "adhiadhi@mail.com",
+			"password": "asdasd1",
+			"id": 1
+		},
+		{
+			"email": "adhadh@mail.com",
+			"password": "asdasd123",
+			"id": 2
+		}
+	],
+	"products": [
+		{
+			"id": 1,
+			"name": "The Starter Sleep Bundle",
+			"stock": 0,
+			"price": 500000,
+			"image": "https://cdn.shopify.com/s/files/1/0818/5369/files/SW_Starter_Sleep_Bundle_White_500x.jpg?v=497814458509933278",
+			"categoryName": "Sleep"
+		},
+		{
+			"id": 2,
+			"name": "Blanket",
+			"stock": 5,
+			"price": 70000,
+			"image": "https://cdn.shopify.com/s/files/1/0818/5369/files/11.17_Snowe_BlackFriday47301_CLPcrop_500x.jpg?v=9760623750535539128",
+			"categoryName": "Sleep"
+		},
+		{
+			"id": 3,
+			"name": "Classic Towel",
+			"stock": 9,
+			"price": 90000,
+			"image": "https://cdn.shopify.com/s/files/1/0818/5369/files/BathTowel-white-single_500x.jpg?v=5360566039693900309",
+			"categoryName": "Bath"
+		},
+		{
+			"id": 4,
+			"name": "Bath Robe",
+			"stock": 20,
+			"price": 150000,
+			"image": "https://cdn.shopify.com/s/files/1/0818/5369/files/1.24_Snowe_Valentines-Bundles.9395-approved-V2_1_500x.jpg?v=10606060125690741396",
+			"categoryName": "Bath"
+		},
+		{
+			"id": 5,
+			"name": "Diffuser",
+			"stock": 5,
+			"price": 200000,
+			"image": "https://cdn.shopify.com/s/files/1/0818/5369/files/Snowe_9.4_Diffuser-Rinse_Repeat_Hover_CLP_500x.jpg?v=10394089503573151434",
+			"categoryName": "Scent"
+		},
+		{
+			"id": 6,
+			"name": "4-Piece Table Settings",
+			"stock": 10,
+			"price": 350000,
+			"image": "https://cdn.shopify.com/s/files/1/0818/5369/files/DinnerSetting-A_CLP_500x.jpg?v=17471306697906870768",
+			"categoryName": "Eat"
+		},
+		{
+			"id": 7,
+			"name": "Flatware Settings",
+			"stock": 12,
+			"price": 250000,
+			"image": "https://cdn.shopify.com/s/files/1/0818/5369/files/FlatwareSetting-A_RL_500x.jpg?v=13929411004678251299",
+			"categoryName": "Eat"
+		},
+		{
+			"id": 8,
+			"name": "Walnut Cheese Board Set",
+			"stock": 15,
+			"price": 280000,
+			"image": "https://cdn.shopify.com/s/files/1/0818/5369/files/SW_CheeseboardSet_Walnut_StainlessSteel_hover_500x.jpg?v=3045611636169622521",
+			"categoryName": "Eat"
+		},
+		{
+			"id": 9,
+			"name": "Candle Set",
+			"stock": 15,
+			"price": 300000,
+			"image": "https://cdn.shopify.com/s/files/1/0818/5369/files/Bundles-7985_CLPcrop_500x.jpg?v=15278194760970743102",
+			"categoryName": "Scent"
+		}
+	],
+	"cart": [],
+	"transaction": []
+}
